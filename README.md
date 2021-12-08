@@ -1,2 +1,2 @@
 # odin-recipes
-repo for working through a recipe site from The Odin Project
+repo for mastering my HTML/CSS/JS-foo by building a recipe site from the ground up via The Odin Project
