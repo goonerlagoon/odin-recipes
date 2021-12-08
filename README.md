@@ -1,2 +1,2 @@
 # odin-recipes
-repo for working through some projects from The Odin Project
+repo for working through a recipe site from The Odin Project
